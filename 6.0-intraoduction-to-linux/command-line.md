@@ -1,0 +1,26 @@
+# Command Line
+
+To find the directory.
+
+```linker-script
+pwd
+```
+
+Show the file content.&#x20;
+
+```
+ls
+```
+
+Locate something
+
+```
+locate bash
+```
+
+&#x20;Change password
+
+```
+passwd
+```
+
